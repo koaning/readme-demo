@@ -1,4 +1,5 @@
 ![](https://img.shields.io/github/license/koaning/readme-demo)
+![](https://img.shields.io/github/repo-size/koaning/readme-demo)
 
 <img src="happyface.png" width=125 height=125 align="right">
 
