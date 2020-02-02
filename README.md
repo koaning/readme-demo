@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/koaning/readme-demo)
+
 <img src="happyface.png" width=125 height=125 align="right">
 
 # Numberstring 
