@@ -1,3 +1,5 @@
+> This is an example readme file for the mini course on [calmcode.io](https://calmcode.io/readme-files/dearme-readme.html).
+
 ![](https://img.shields.io/github/license/koaning/readme-demo)
 ![](https://img.shields.io/github/repo-size/koaning/readme-demo)
 
