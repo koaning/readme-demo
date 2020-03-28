@@ -25,6 +25,14 @@ numberstring.translate(1) # "one"
 numberstring.translate(101) # "one-hundred-and-one"
 ```
 
+<details>
+  <summary>Need help with copy/paste?</summary>
+  You can copy and paste this code by using these shortcuts:
+
+  - <kbd>CMD/CTRL</kbd> + <kbd>C</kbd>: to copy
+  - <kbd>CMD/CTRL</kbd> + <kbd>V</kbd>: to paste
+</details>
+
 ## Contributing 
 
 Please read the issue list before posting a PR. 
