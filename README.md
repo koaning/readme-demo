@@ -33,6 +33,11 @@ numberstring.translate(101) # "one-hundred-and-one"
 
   - <kbd>CMD/CTRL</kbd> + <kbd>C</kbd>: to copy
   - <kbd>CMD/CTRL</kbd> + <kbd>V</kbd>: to paste
+
+```python
+# Code also renders
+variable = 1
+```
 </details>
 
 ## Contributing 
